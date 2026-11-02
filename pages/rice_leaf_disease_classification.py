@@ -15,7 +15,7 @@ st.write(
 st.divider()
 
 
-MODEL_PATH = "best.keras"
+MODEL_PATH = "model/best.keras"
 
 # =========================================================
 # Class Names
