@@ -1,0 +1,7 @@
+streamlit==1.63.0
+scikit-learn
+pandas
+numpy>=1.26,<2.0
+plotly
+joblib
+tensorflow==2.21.0
